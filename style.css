@@ -41,3 +41,13 @@ font-family: 'Open Sans Condensed', sans-serif;
 margin-top: 50px; 
 width: 1024px;
     }
+
+.btn-primary {
+background-color: #7d8a96;
+}
+
+.btn {
+background-color: #7d8a96;
+outline-color: #7d8a96;
+}
+
