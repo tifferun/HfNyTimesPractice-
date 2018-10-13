@@ -1,0 +1,43 @@
+/* 1024 pixels wide by 768 pixels high */
+
+.container {
+width: 1024px;
+height: 768px;  
+background-color: white; 
+}
+
+.header {
+width: 1024px;
+height: 200px;
+background-color: #49496b; 
+color:white;
+align-content: center; 
+font-size: 75px; 
+text-align: center; 
+line-height: 200px; 
+font-family: 'Amiri', serif;
+font-family: 'Amiri', serif;
+font-family: 'Dosis', sans-serif;
+font-family: 'Open Sans Condensed', sans-serif;
+
+}
+
+.top-card {
+margin-top: 50px; 
+width: 1024px;
+}
+
+.card-header{ 
+background-color:#49496b;
+color: white; 
+font-family: 'Amiri', serif;
+font-family: 'Amiri', serif;
+font-family: 'Dosis', sans-serif;
+font-family: 'Open Sans Condensed', sans-serif;
+}
+
+
+.bottom-card {
+margin-top: 50px; 
+width: 1024px;
+    }
